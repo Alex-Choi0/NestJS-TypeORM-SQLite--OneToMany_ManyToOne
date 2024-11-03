@@ -4,4 +4,4 @@
 
 ## Description
 
-[blog](https://engineeringshw.blogspot.com) "NestJS TypeORM(SQLite) 을 이용한 One to Many(일대다)".
+[blog](https://engineeringshw.blogspot.com/2024/11/nestjs-typeormsqlite-one-to-many.html) "NestJS TypeORM(SQLite) 을 이용한 One to Many(일대다)".
